@@ -1,0 +1,6 @@
+{
+  "name": "Para Becker 💛 - Flores Amarillas",
+  "description": "Detalle interactivo de flores amarillas para Becker con regalos virtuales, carta de amor y lluvia de pétalos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
